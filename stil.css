@@ -1,0 +1,14 @@
+.login-container{
+    width: 250px;
+    height: 400px;
+    background-color: blanchedalmond;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-login{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
